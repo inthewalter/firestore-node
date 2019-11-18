@@ -1,0 +1,16 @@
+{
+	"editor.formatOnSave": true,
+	"eslint.autoFixOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"eslint.validate": [
+		"javascript",
+		{
+			"language": "typescript",
+			"autoFix": true
+		}
+	],
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/dist": true
+	}
+}
