@@ -1,5 +1,5 @@
 {
-  "name": "node-firestore-s3",
+  "name": "sprint-data-upload",
   "version": "0.0.1",
   "description": "It's a node script for upload data on firestore, S3",
   "main": "index.js",
